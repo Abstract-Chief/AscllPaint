@@ -26,8 +26,8 @@
 - **Ctrl + V**: Add copy
 - **Ctrl + B**: Pick color
 - **Ctrl + D**: Delete image
-- **Backspace**: Clear point
 - **Ctrl + F**: Clear page
+- **Backspace**: Clear point
 
 ### Debugging:
 - **F10**: Debug mode
